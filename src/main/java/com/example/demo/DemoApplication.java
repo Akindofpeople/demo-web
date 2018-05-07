@@ -15,6 +15,7 @@ public class DemoApplication {
 	public String test(ModelMap mm){
 		mm.put("key", " world");
 		System.out.println (111);
+		System.out.println ("修改下" );
 		System.out.println ("123123" );
 		System.out.println ("123" );
 		return "index.html";
