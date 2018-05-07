@@ -19,6 +19,7 @@ public class DemoApplication {
 		System.out.println ("123123" );
 		System.out.println ("123" );
         System.out.println ("dev" );
+        System.out.println ("dev第二次");
 		return "index.html";
 	}
 
