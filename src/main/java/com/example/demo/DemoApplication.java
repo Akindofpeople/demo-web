@@ -18,6 +18,7 @@ public class DemoApplication {
 		System.out.println ("修改下" );
 		System.out.println ("123123" );
 		System.out.println ("123" );
+        System.out.println ("dev" );
 		return "index.html";
 	}
 
